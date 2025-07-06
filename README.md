@@ -3,3 +3,7 @@
 [documentation](https://lazyvim.github.io/installation)
 
 Keybinds will most likely change
+
+Installation works just like LazyVim
+
+git clone https://github.com/Nyamogus/nvim ~/.config/nvim
