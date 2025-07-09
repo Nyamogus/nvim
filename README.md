@@ -2,8 +2,7 @@
 
 [documentation](https://lazyvim.github.io/installation)
 
-Keybinds will most likely change
-
+If a key is the same on german and english keyboards, it'll not change, otherwise keybindings might differ and are subject to change
 Installation works just like LazyVim
 
 ```
