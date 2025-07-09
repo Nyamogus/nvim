@@ -11,6 +11,9 @@ return {
 	},
 	{
 		"williamboman/mason-lspconfig.nvim",
+		opts = {
+			nsure_installed = { "rust_analyzer" },
+		},
 		config = function() end,
 	},
 }
