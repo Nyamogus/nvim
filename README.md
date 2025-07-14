@@ -12,5 +12,5 @@ git clone https://github.com/Nyamogus/nvim ~/.config/nvim
 ```
 Windows:
 ```
-git clone https://github.com/LazyVim/starter $env:LOCALAPPDATA\nvim
+git clone https://github.com/Nyamogus/nvim $env:LOCALAPPDATA\nvim
 ```
