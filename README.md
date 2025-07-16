@@ -4,7 +4,14 @@
 
 If a key is the same on german and english keyboards, it'll not change, otherwise keybindings might differ and are subject to change
 
-Installation works just like LazyVim
+---
+
+Dependencies: LuaRocks, Nerdfont, C compiler, Cargo, npm
+
+Optional: fzf, ripgrep, fd
+
+---
+## Installation works just like LazyVim
 
 Linux/MacOS:
 ```
