@@ -3,6 +3,7 @@ return {
 	keys = {
 		{ "gs", nil, { "n", "v" }, desc = "Switch" },
 	},
+	lazy = false,
 	config = function()
 		local fk = [=[\<\(\l\)\(\l\+\(\u\l\+\)\+\)\>]=]
 		local sk = [=[\<\(\u\l\+\)\(\u\l\+\)\+\>]=]
