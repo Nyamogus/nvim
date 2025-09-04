@@ -3,4 +3,7 @@ return {
 	lazy = false,
 	name = "catppuccin",
 	priority = 1000,
+	require("catppuccin").setup({
+		auto_integrations = true,
+	}),
 }
