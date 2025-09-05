@@ -8,4 +8,3 @@
 -- e.g. vim.api.nvim_del_augroup_by_name("lazyvim_wrap_spell")
 
 vim.g.codeium_enabled = false -- disable/enable codeium
-vim.cmd.colorscheme "catppuccin"
