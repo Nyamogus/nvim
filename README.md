@@ -1,5 +1,7 @@
 # My Neovim config based on [LazyVim](https://github.com/LazyVim/LazyVim)
 
+Made by an E muncher kitten for other E munching kittens 
+
 [documentation](https://lazyvim.github.io/installation)
 
 If a key is the same on german and english keyboards, it'll not change, otherwise keybindings might differ and are subject to change
